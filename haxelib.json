@@ -1,0 +1,16 @@
+{
+  "name": "sscript",
+  "url" : "https://github.com/ComesFromBack/SScript19.0.618-Backup/",
+  "license": "MIT",
+  "tags": ["script"],
+  "description": "This library is for Psych Engine 1.0 Github action package.",
+  "version": "19.0.618",
+  "classPath": "src/",
+  "releasenote": "Initial release, everything is working correctly.",
+  "contributors": ["idk"],
+  "dependencies": {
+    "tink_macro": "",
+    "nme": "3.5.5"
+  },
+  "main": "tools.Main"
+}
