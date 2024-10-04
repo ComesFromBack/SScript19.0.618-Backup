@@ -1,16 +1,13 @@
 {
-  "name": "sscript",
-  "url" : "https://github.com/ComesFromBack/SScript19.0.618-Backup/",
-  "license": "MIT",
-  "tags": ["script"],
-  "description": "This library is for Psych Engine 1.0 Github action package.",
+  "name": "SScript",
+  "url": "https://github.com/TahirKarabekiroglu/SuperlativeScript",
+  "license": "Apache",
+  "tags": ["hscript"],
+  "description": "SuperlativeScript, an easy-to-use Haxe Script parser.",
   "version": "19.0.618",
   "classPath": "src/",
-  "releasenote": "Initial release, everything is working correctly.",
-  "contributors": ["idk"],
+  "releasenote": "Check CHANGELOG.md",
+  "contributors": ["TahirKarabekiroglu"],
   "dependencies": {
-    "tink_macro": "",
-    "nme": "3.5.5"
-  },
-  "main": "tools.Main"
+  }
 }
